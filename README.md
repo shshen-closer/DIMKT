@@ -2,7 +2,7 @@
 
 Source code and data set for our paper (recently accepted in SIGIR2022): Assessing Student's Dynamic Knowledge State by Exploring the Question Difficulty Effect.
 
-The code is the implementation of LPKT model, and the data set is the public data set [ASSIST2012-2013](https://sites.google.com/site/assistmentsdata/home/2012-13-school-data-withaffect).
+The code is the implementation of DIMKT model, and the data set is the public data set [ASSIST2012-2013](https://sites.google.com/site/assistmentsdata/home/2012-13-school-data-withaffect).
 
 
 
